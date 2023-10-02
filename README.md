@@ -17,6 +17,8 @@ export const config = [
 ]
 ```
 
+and run using `pm2 start index.js` or right in the terminal `node index.js`
+
 ## Docs
 
 Uses following lib [https://codetheweb.github.io/tuyapi/index.html](https://github.com/codetheweb/tuyapi)https://github.com/codetheweb/tuyapi as the main functionality.
