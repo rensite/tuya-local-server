@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "tuyapi": "github:codetheweb/tuyapi"
+  },
+  "name": "tuyaserver",
+  "version": "1.0.0",
+  "description": "Local tuya server",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RenSite",
+  "license": "ISC"
+}
